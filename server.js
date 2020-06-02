@@ -1,5 +1,8 @@
 const express = require('express')
 const app = express()
+const data = require('./data.json')
+
+app.use(express.json());
 
 //verbos HTTP
 /*GET, POST, PUT, DELETE usar esses verbos é uma boa pratica
@@ -14,7 +17,7 @@ o resource aqui é o client
 use todos os resources num padrão:  tudo singular ou plural
 */
 app.get('/clients', function(req,res){
-    
+    res.json(data)
 })
 
 
