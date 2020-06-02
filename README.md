@@ -2,7 +2,7 @@
 
 client -> (site/app) |
 garçom (pegar pedido, levar pratos, entregar conta) -> API (intermediador) |
-cozinha (server)
+cozinha -> (server)
 
 ## Application Programming de Interface (API)
     conjunto de rotinas e padrões estabelecidos por uma aplicação
