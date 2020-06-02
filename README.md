@@ -6,30 +6,30 @@ client (site/app)
 garçom->pegar pedido, levar pratos, entregar conta (API)  ##intermediador
 cozinha (server)
 
-## Application Programming de Interface (API){
+## Application Programming de Interface (API)
     conjunto de rotinas e padrões estabelecidos por uma aplicação
     para que outros aplicativos possam utilizar as funcionalidades
     desta aplicação
-}
+
 
 -responsável por esbelecer comunicação entre diferentes serviços, "meio-de-campo" entre as tecnologias, intermediador de troca de informações.
 
 
 
 
-## REpresententional State Transfer (REST){
+## REpresententional State Transfer (REST)
     será feita a trasferencia de dados de forma representativa, simbolica, figurativa
 
     A trasferencia de dados geralmente usando o protocolo HTTP
-}
+
 com algumas "obrigações" nessas trasferencias de dados
 
-o que é ser RESTFUL -> cumprir padrões REST
+- o que é ser RESTFUL -> cumprir padrões REST
 
-os dados são chamados de resources (uma entidade ou objeto)
+- os dados são chamados de resources (uma entidade ou objeto)
 
 
-6 obrigações(constraints):
+## 6 obrigações(constraints): ##
 
 -_1.Client-server:_
     o cliente e o servidor tem que ficar separados
