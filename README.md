@@ -62,13 +62,4 @@ _6.Uniform Interface:_
     uso corretos dos verbos http,
     padrão no formato de arquivos (como .json)
     
----------------------------------------
-_analogia do restaurante:_
-Restaurante->
-limpinho,
-atendimento bom,
-te de oq vc pediu
 
-Cliente->
-educação,
-cumprir com o pagamento
