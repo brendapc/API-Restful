@@ -45,7 +45,7 @@ _3.Cacheable:_
 _4.Layered System:_
 
 -_URI,Endpoint:_
-ex: "github.com/brendapc"
+ex: "https://github.com/brendapc"
 - brendapc é o Endpoint
 - URI -> o caminho completo
 
