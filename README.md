@@ -47,8 +47,9 @@ os dados são chamados de resources (uma entidade ou objeto)
 4.Layered System:
 -URI,Endpoint:
 github.com/"brendapc"
-                |
-                -> Endpoint
+ |               |
+ |               -> Endpoint
+URI-> o caminho completo
 
     o cliente acessa o endpoit sem saber  da complexidade, de quais passos estão sendo necessários para o servidor responder aquela requisição,ou com quais outras camadas o servidor esta lidando para que a requisição seja respondida
 
