@@ -57,7 +57,7 @@ URI-> o caminho completo
  da a possibilidade da aplicação pegar codigos,
  como javascript por exemplo, e executar no cliente
 
--_Uniform Interface:_
+-_6.Uniform Interface:_
     padronização de escrita dos arquivos, 
     uso corretos dos verbos http,
     padrão no formato de arquivos (como .json)
